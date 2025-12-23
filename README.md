@@ -2,7 +2,7 @@
 
 ![Slum vs Sanitation Map](https://github.com/karmok3r/Slum-vs-Sanitation-BD/raw/main/Slum%20vs%20Sanitation.png)
 
-> Bivariate choropleth of **Urban Slum Population (%)** vs **Basic Sanitation Service (%)** for districts of Bangladesh, using official 2022 census indicators. [file:1]
+> Bivariate choropleth of **Urban Slum Population (%)** vs **Basic Sanitation Service (%)** for districts of Bangladesh, using official 2022 census indicators. 
 
 ---
 
@@ -13,7 +13,7 @@ This repository explores the spatial relationship between **housing vulnerabilit
 - **Field 1 (X‑axis):** Urban_Slum_Percentage  
 - **Field 2 (Y‑axis):** Basic_Sanitation_Percentage  
 
-Districts are classified into a 3×3 color grid to highlight where **high slum prevalence overlaps with low sanitation coverage**, helping to pinpoint **critical intervention zones** for WASH and urban upgrading projects. [file:1]
+Districts are classified into a 3×3 color grid to highlight where **high slum prevalence overlaps with low sanitation coverage**, helping to pinpoint **critical intervention zones** for WASH and urban upgrading projects. 
 
 ---
 
@@ -36,25 +36,6 @@ All indicators were extracted and pre‑processed from the official national rep
 - **GIS Software:** ArcGIS Pro – Bivariate Colors symbology for quantitative mapping 
 - **Data Handling:** CSV/Excel (SDG indicators by district)  
 - **Version Control:** Git + GitHub for reproducible cartography workflows 
-
----
-
-## 📁 Repository Structure
-Slum-vs-Sanitation-BD/
-├─ Bivariant Map 1.gdb
-├─ Bivariant Map 1.atrx
-├─ GpMessages
-├─ ImportLog
-├─ Index
-├─ SDG Indicator BBS.pdf
-├─ SDG Indicators.xlsx
-├─ Slum Sanitation.csv
-├─ Slum Sanitation.xlsx 
-├─ Slum Vs Sanitation.aprx
-├─ Slum vs Sanitation.png 
-└─ README.md
-
-
 ---
 
 ## 🔍 Map Interpretation
